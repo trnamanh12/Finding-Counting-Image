@@ -1,0 +1,6 @@
+finding.py
+findobj.py
+*.ipynb
+*.pyc
+Finding.py
+*.DS_Store
